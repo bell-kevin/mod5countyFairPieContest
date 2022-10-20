@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mod5countyFairPieContest", "mod5countyFairPieContest\mod5countyFairPieContest.vcxproj", "{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}.Debug|x64.ActiveCfg = Debug|x64
+		{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}.Debug|x64.Build.0 = Debug|x64
+		{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}.Debug|x86.Build.0 = Debug|Win32
+		{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}.Release|x64.ActiveCfg = Release|x64
+		{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}.Release|x64.Build.0 = Release|x64
+		{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}.Release|x86.ActiveCfg = Release|Win32
+		{5BF51C0B-80F2-4DF8-8ECA-169A7F1387CB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DE1183B-1C11-49CA-8779-B040A6BC9C54}
+	EndGlobalSection
+EndGlobal
